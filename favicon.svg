@@ -1,0 +1,22 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" rx="5" fill="#0D99FF"/>
+<path d="M8 1L10 9H6L8 1Z" fill="#F5CA03"/>
+<path d="M2 14C3.00195 9.98747 10.002 9 10.002 9C10.002 9 7.00195 14.9919 2 14Z" fill="#F5CA03"/>
+<path d="M13.9883 14C12.9863 9.98747 6 9 6 9C6 9 8.98633 14.9919 13.9883 14Z" fill="#F5CA03"/>
+<path d="M14 9.41667C14 12.4542 11.3137 14 8 14C4.68629 14 2 12.4542 2 9.41667C2 6.3791 4.68629 3 8 3C11.3137 3 14 6.3791 14 9.41667Z" fill="#F5CA03"/>
+<path d="M14 9.41406C14 12.4516 11.3137 13.9974 8 13.9974C4.68629 13.9974 2 12.4516 2 9.41406C2 9.41406 4.68629 10 8 10C11.3137 10 14 9.41406 14 9.41406Z" fill="#F5EBD1"/>
+<circle cx="5.5" cy="7.5" r="1.5" fill="white"/>
+<circle cx="10.5" cy="7.5" r="1.5" fill="white"/>
+<circle cx="6" cy="8" r="1" fill="black"/>
+<circle cx="10" cy="8" r="1" fill="black"/>
+<circle cx="5.5" cy="7.5" r="0.5" fill="white"/>
+<circle cx="9.5" cy="7.5" r="0.5" fill="white"/>
+<path d="M4 10C6 10.5 10 10.5184 12 10C12 11.0184 11 12.9901 8 12.9901C5 12.9901 4 11.021 4 10Z" fill="#981A47"/>
+<mask id="mask0_3325_59540" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="10" width="8" height="3">
+<path d="M4 10C6 10.5 10 10.5184 12 10C12 11.0184 11 12.9901 8 12.9901C5 12.9901 4 11.021 4 10Z" fill="#F3F4F1"/>
+</mask>
+<g mask="url(#mask0_3325_59540)">
+<path d="M4 9H12V10L11 11L10 10L9 11L8 10L7 11L6 10L5 11L4 10V9Z" fill="#F3F4F1"/>
+<ellipse cx="8" cy="13" rx="4" ry="1" fill="#B8373D"/>
+</g>
+</svg>
